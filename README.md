@@ -213,4 +213,4 @@ They are not different — they were born to teach the world pure love and extra
 [![GitHub: KongAli1720](https://img.shields.io/badge/GitHub-KongAli1720-black?logo=github)](https://github.com/kongali1720)  
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](#)  
 
-> *“Every code, every system, every block — is part of my life.”*  
+ *“Every code, every system, every block — is part of my life.”*  
